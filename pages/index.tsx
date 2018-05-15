@@ -1,9 +1,11 @@
 import React from 'react';
+import Page from '../components/Page';
 
 export const Index: React.SFC<{}> = () => {
-    return <div>
-        <h1>Welcome to Sky Vegas!</h1>
-    </div>;
+    return <Page>
+        <h2>Ooh look at me!</h2>
+        <p>Isn't next.js shiny</p>
+    </Page>;
 };
 
 export default Index;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Meta renders as expected 1`] = `
+<SideEffect(Head)>
+  <meta
+    content="width=device-width, initial-scale=1"
+    name="viewport"
+  />
+  <meta
+    charSet="utf-8"
+  />
+</SideEffect(Head)>
+`;

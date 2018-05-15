@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Page renders as expected 1`] = `
+<React.Fragment>
+  <Meta />
+  <Header />
+  <main>
+    <h1>
+      Hello Next!
+    </h1>
+  </main>
+</React.Fragment>
+`;
