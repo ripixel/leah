@@ -13,7 +13,11 @@
         "preserveConstEnums": true,
         "sourceMap": true,
         "skipLibCheck": true,
-        "baseUrl": ".",
+        "baseUrl": "./",
+        "paths": {
+            "components/*": ["components/*"],
+            "lib/*": ["lib/*"]
+        },
         "lib": [
             "dom",
             "es2016"

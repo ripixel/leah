@@ -1,7 +1,7 @@
 import React from 'react';
 
 import {Page} from './index';
-import expectShallow from '../../utils/testing/expectComponent';
+import expectShallow from 'lib/utils/testing/expectComponent';
 
 describe('components/Page', () => {
     it('renders as expected', () => {
